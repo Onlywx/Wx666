@@ -36,6 +36,7 @@
 		85CD0E351BE75A61001CC72A /* HeroChangeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 85CD0E341BE75A61001CC72A /* HeroChangeModel.m */; };
 		85CD0E381BE75AF5001CC72A /* HeroWeekDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 85CD0E371BE75AF5001CC72A /* HeroWeekDataModel.m */; };
 		85CD0E3B1BE75B04001CC72A /* ToolMenuModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 85CD0E3A1BE75B04001CC72A /* ToolMenuModel.m */; };
+		85CD0E531BE76F99001CC72A /* ggggg.m in Sources */ = {isa = PBXBuildFile; fileRef = 85CD0E521BE76F99001CC72A /* ggggg.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -97,6 +98,8 @@
 		85CD0E371BE75AF5001CC72A /* HeroWeekDataModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeroWeekDataModel.m; sourceTree = "<group>"; };
 		85CD0E391BE75B04001CC72A /* ToolMenuModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToolMenuModel.h; sourceTree = "<group>"; };
 		85CD0E3A1BE75B04001CC72A /* ToolMenuModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToolMenuModel.m; sourceTree = "<group>"; };
+		85CD0E511BE76F99001CC72A /* ggggg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ggggg.h; sourceTree = "<group>"; };
+		85CD0E521BE76F99001CC72A /* ggggg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ggggg.m; sourceTree = "<group>"; };
 		DD4F0750B5DAAA87BA236B31 /* Pods-BaseProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-BaseProject/Pods-BaseProject.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -279,6 +282,8 @@
 				85CD0E371BE75AF5001CC72A /* HeroWeekDataModel.m */,
 				85CD0E391BE75B04001CC72A /* ToolMenuModel.h */,
 				85CD0E3A1BE75B04001CC72A /* ToolMenuModel.m */,
+				85CD0E511BE76F99001CC72A /* ggggg.h */,
+				85CD0E521BE76F99001CC72A /* ggggg.m */,
 			);
 			path = "多玩";
 			sourceTree = "<group>";
@@ -449,6 +454,7 @@
 				85CD0E2C1BE74C59001CC72A /* AlbumListModel.m in Sources */,
 				3804CE531BD758F10046C8C8 /* NSString+PJR.m in Sources */,
 				85CD0E3B1BE75B04001CC72A /* ToolMenuModel.m in Sources */,
+				85CD0E531BE76F99001CC72A /* ggggg.m in Sources */,
 				85CD0E2F1BE74E93001CC72A /* HeroDetailModel.m in Sources */,
 				3886C09B1BD748830014E661 /* AppDelegate.m in Sources */,
 				3835CFB71BD90E150024CA48 /* ViewController.m in Sources */,
